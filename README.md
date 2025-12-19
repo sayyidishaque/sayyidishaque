@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sayyidishaque
-- 👀 I’m interested in django web devolopment
-- 🌱 I’m currently practicing django and rest API
+- 👀 I’m a python Developer
+- 🌱 I’m currently Developing 2 Ai tools
 - 💞️ I’m working in Warals Technology as a python developer
 - 📫 reach me on sayyid.ishaque@gmail.com, +919895409460
 
